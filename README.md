@@ -10,4 +10,8 @@ GitHub ha cambiado desde que se hizo el vídeo.
 
 Ahora no aparece master, sino main en los directorios.
 
-Para ver los archivos hay que hacer click en la pestaña de terminales de VSC y seleccionar GitBash. Así funcionan los comandos dir y ls haciendo lo mismo y puedo usar ls -la como hace la autora del vídeo. 
+Para ver los archivos hay que hacer click en la pestaña de terminales de VSC y seleccionar GitBash. Así funcionan los comandos dir y ls haciendo lo mismo y puedo usar ls -la como hace la autora del vídeo.
+
+## Local Development
+
+1. Open index.html in your brouser
